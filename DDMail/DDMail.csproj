@@ -3,6 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>net7.0-windows</TargetFramework>
+    <RuntimeIdentifiers>win-x86</RuntimeIdentifiers>
     <Nullable>enable</Nullable>
     <LangVersion>10.0</LangVersion>
     <UseWPF>true</UseWPF>
